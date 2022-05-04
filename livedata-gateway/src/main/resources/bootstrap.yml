@@ -1,0 +1,8 @@
+spring:
+  cloud:
+    nacos:
+      config:
+        server-addr: 127.0.0.1:8848
+        namespace: ab8c1f1d-90c5-4eb1-b4e6-e2a2e9259c65
+  application:
+    name: livedata-gateway

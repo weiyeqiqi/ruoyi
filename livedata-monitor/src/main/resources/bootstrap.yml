@@ -1,0 +1,8 @@
+spring:
+  cloud:
+    nacos:
+      config:
+        server-addr: 127.0.0.1:8848
+        namespace: 1af6ab93-7aea-47e1-b326-969697f96e37
+  application:
+    name: livedata-monitor

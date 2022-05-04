@@ -1,0 +1,8 @@
+spring:
+  cloud:
+    nacos:
+      config:
+        server-addr: 127.0.0.1:8848
+        namespace: 209da2a5-f230-4abf-b7f1-044fb6a4a748
+  application:
+    name: livedata-collect

@@ -12,6 +12,8 @@
     <modules>
         <module>livedata-monitor</module>
         <module>livedata-collect</module>
+        <module>RuoYi-Cloud</module>
+        <module>livedata-common</module>
     </modules>
 
 </project>
